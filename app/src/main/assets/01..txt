@@ -1,0 +1,17 @@
+1.	I
+2.	I and you
+3.	both of us
+4.	he
+5.	he and she
+6.	they both
+7.	the man
+8.	the woman
+9.	the child
+10.	a family
+11.	my family
+12.	My family is here.
+13.	I am here.
+14.	You are here.
+15.	He is here and she is here.
+16.	We are here.
+17.	You are here.

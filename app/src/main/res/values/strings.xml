@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spanish Learning</string>
+    <string name="people_s">1.	I\n
+2.	I and you\n
+3.	both of us\n
+4.	he\n
+5.	he and she\n
+6.	they both\n
+7.	the man\n
+8.	the woman\n
+9.	the child\n
+10.	a family\n
+11.	my family\n
+12.	My family is here.\n
+13.	I am here.\n
+14.	You are here.\n
+15.	He is here and she is here.\n
+16.	We are here.\n
+17.	You are here.\n
+</string>
+</resources>
