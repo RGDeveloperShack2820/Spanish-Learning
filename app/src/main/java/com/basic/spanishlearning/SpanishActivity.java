@@ -34,6 +34,7 @@ public class SpanishActivity extends AppCompatActivity {
     SeekBar sb_audio;
     MediaPlayer mp_audio;
     Field[] fields;
+
     ArrayList<Integer> audioID;
     String str_eng;
     String str_spa;
